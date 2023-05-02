@@ -52,7 +52,7 @@
 }
 
 .time-select button:hover {
-  background: white;
+  background: rgb(238, 232, 232);
   color: rgb(3, 3, 3);
 }
 
